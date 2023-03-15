@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Core/Inc" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/ltdc.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/TOUCH" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Middlewares/lvgl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Middlewares/lvgl/ui/ui.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Middlewares/lvgl/ui/ui.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Middlewares/lvgl/ui/ui_font_HMOS18.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Middlewares/lvgl/ui/ui_helpers.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Middlewares/lvgl/ui/ui_helpers.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/STM32H743IITX_FLASH.ld" charset="GBK" />
+  </component>
+</project>
